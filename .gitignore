@@ -1,0 +1,17 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+
+# Local models
+models/
+
+# IDE files
+.idea/
+.vscode/

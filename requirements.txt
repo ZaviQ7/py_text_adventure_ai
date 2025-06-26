@@ -1,0 +1,8 @@
+# requirements.txt
+
+# For the AI text generation
+transformers
+torch  # For NVIDIA GPU, install the CUDA version: pip install torch --index-url https://download.pytorch.org/whl/cu121
+accelerate
+
+# No other dependencies are needed for the core game or GUI (tkinter is built-in)
