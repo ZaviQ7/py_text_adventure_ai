@@ -2,7 +2,8 @@
 
 This is a fully offline, AI-enhanced text adventure game built in Python. It features a modular architecture, a branching narrative, a player inventory system, and an optional AI storyteller powered by a local GPT-2 model. The game can be played in a modern Tkinter GUI or a classic command-line interface.
 
-![GUI Screenshot](https://i.imgur.com/your-screenshot-url.png)  <!-- Replace with a real screenshot URL -->
+![Screenshot 2025-06-26 190141](https://github.com/user-attachments/assets/2771420e-e684-4248-8f09-a57984bdb4ba)
+ 
 
 ## Features
 
